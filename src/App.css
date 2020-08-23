@@ -19,6 +19,14 @@
   display: flex;
 } 
 
+/* Resume page css */
+
+.resume-right-col {
+  background: #27221f;
+  color: white;
+  padding: 2em;
+}
+
 /* Contact page css */
 
 .contact-body {

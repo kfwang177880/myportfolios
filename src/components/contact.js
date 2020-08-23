@@ -10,7 +10,7 @@ class Contact extends Component {
           <Cell col={6}>
           <h2>Kwee F. Wang</h2>
           <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+              src="https://s3-us-west-1.amazonaws.com/peopleworld/pictures/af720dfb33a24005f475227b343bef44.jpeg"
               alt="avatar"
               style={{height: '250px'}}
             />
